@@ -9,6 +9,8 @@ export class CalculadoraComponent implements OnInit {
 
   constructor() { }
 
+  // Chamado logo que o objeto é instanciado.
+  // Para instanciação mais pesada, que vai impactar
   ngOnInit(): void {
   }
 
